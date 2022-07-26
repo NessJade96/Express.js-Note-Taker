@@ -16,6 +16,10 @@ N/A at this stage
 
 3. Create API routes (GET /api/notes should read the db.json file and return all saved notes as JSON.) and & (POST /api/notes should receive a new note to save on the request body, add it to the db.json file, and then return the new note to the client. You'll need to find a way to give each note a unique id when it's saved (look into npm packages that could do this for you).)
 
+4. Add in js to have the save button, new notes button, and clicking on the already created notes on the left hand side to be functioning.
+
+5. BONUS -> using the uuid make it so you can also delete / remove the saved notes.
+
 ## Screenshots:
 
 ![Finished product](./assets/images/) // need to add pictures.
@@ -28,3 +32,5 @@ Heroku:
 ## Commit notes:
 
 1. Using the starter code provided I created the files and folder structure. Created my plan of attack. Made sure the css styling was applied to the notes page by added a fullstop in the css styling href. Linked the HTML routes in the server.js file.
+
+2. Started to create the API for the notes.
