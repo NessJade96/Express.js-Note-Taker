@@ -33,4 +33,8 @@ Heroku:
 
 1. Using the starter code provided I created the files and folder structure. Created my plan of attack. Made sure the css styling was applied to the notes page by added a fullstop in the css styling href. Linked the HTML routes in the server.js file.
 
-2. Started to create the API for the notes. Still need to check if this is working properly. Added a few more planning notes. http://localhost:3001/api/notes shows the db of notes as an object and renders them on the left hand side of the page.
+2. Started to create the API for the notes. Still need to check if this is working properly. Added a few more planning notes.
+
+3. http://localhost:3001/api/notes shows the db of notes as an object and renders them on the left hand side of the page.
+
+4.
