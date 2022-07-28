@@ -37,4 +37,4 @@ Heroku:
 
 3. http://localhost:3001/api/notes shows the db of notes as an object and renders them on the left hand side of the page.
 
-4.
+4. Created the DELETE API call so users can delete / remove their notes. I did have troubles looking this up online, and I ended up changing the key id in the notes db and it now works :)
