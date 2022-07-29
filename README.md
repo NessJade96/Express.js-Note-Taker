@@ -26,7 +26,7 @@ N/A at this stage
 
 ## Links:
 
-Walkthrough video:
+Walkthrough video: https://drive.google.com/file/d/1x1guMPoR5Lg61EPjy37e5qxply6y96_7/view
 GitHub: https://github.com/NessJade96/Express.js-Note-Taker
 Heroku: https://git.heroku.com/glacial-river-44300.git
 
