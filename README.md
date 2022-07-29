@@ -28,7 +28,7 @@ N/A at this stage
 
 Walkthrough video:
 GitHub: https://github.com/NessJade96/Express.js-Note-Taker
-Heroku:
+Heroku: https://git.heroku.com/glacial-river-44300.git
 
 ## Commit notes:
 
